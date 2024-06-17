@@ -567,9 +567,9 @@ bufferutil@^4.0.1:
     node-gyp-build "^4.3.0"
 
 byteify@^2.0.10:
-  version "2.0.10"
-  resolved "https://registry.npmjs.org/byteify/-/byteify-2.0.10.tgz"
-  integrity sha512-clrE0NtRB/YwjQcmrUU9qpxRIQ5Jc1HGedv6/LWd08upE0FV0S4YvPBkmKEsTaquqGmhx34LkRBO+lXpTgwYgw==
+  version "2.0.12"
+  resolved "https://registry.yarnpkg.com/byteify/-/byteify-2.0.12.tgz#2cb37e7af7f15b9069eaa2ff823b5c5323588a31"
+  integrity sha512-nxPLM0smaeNBNpod9elULDpW6ZQKfoYQNNs8NV4FagitCrYsxcgqfmWmieJ7fH6EmsoicJFLu6+4h3s02aUODQ==
 
 camelcase@^5.3.1:
   version "5.3.1"
