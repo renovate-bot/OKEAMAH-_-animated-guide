@@ -1,4 +1,4 @@
-FROM ignitehq/cli@sha256:1e2846f3621bc3ed2af3e59749bc02f6aec761e1260486da3a17c8fe2c8d2b6c AS base
+FROM ignitehq/cli@sha256:3a95f6762a8ede6903a16694e7775c98850236f5166c9a88d6dc26700a9bc6e9 AS base
 
 COPY --chown=tendermint:tendermint wormchain /apps/wormchain
 COPY --chown=tendermint:tendermint sdk /apps/sdk
