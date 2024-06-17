@@ -323,7 +323,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       # Pinned version of the v6 tag, which is a lightweight and hence mutable tag
-      - uses: streetsidesoftware/cspell-action@214db1e3138f326d33b7a6a51c92852e89ab0618
+      - uses: streetsidesoftware/cspell-action@bce1cdde7b33ede410de3d0be02b1226fa2f7de6
         with:
           # For now, only lint markdown files
           files: "**/*.md"
